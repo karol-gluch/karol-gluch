@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, I'm Karol! 👋
+
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 <!--
 **karol-gluch/karol-gluch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
