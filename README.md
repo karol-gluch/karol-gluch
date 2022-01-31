@@ -1,7 +1,7 @@
 ### Hello, I'm Karol! 👋
-I'm a Java Developer. 
+I'm a Java Developer from Poland.
 
-## :wrench: Languages and Tools:
+## :rocket: Languages and Tools:
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -12,7 +12,7 @@ I'm a Java Developer.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-## :mailbox: Contact with me:
+## :wave: Contact with me:
 - 📫 [E-mail](mailto:karol.glvch@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/karol-gluch/)
 
