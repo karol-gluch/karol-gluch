@@ -13,8 +13,9 @@ I'm a Java Developer from Poland.
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ## :wave: Contact with me:
-- 📫 [E-mail](mailto:karol.glvch@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/karol-gluch/)
+[![gmail](https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:karol.glvch@gmail.com)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/karol-gluch/)
+
 
 
 <!--
